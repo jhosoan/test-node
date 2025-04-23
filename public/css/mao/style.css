@@ -1,0 +1,12 @@
+#menu{
+    display: flex;
+    width: 800px;
+    height: 200px;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+ul{
+    margin-top: 105px;
+}
