@@ -13,4 +13,4 @@ analizando todos os passos do projeto
 
 com ate inicia, pra começar podemos começar com pequenas opçaes sobre o que vamos apresentar 
 
-"simples um menu com escolhas" para navegação do usuario!
+"simples um menu com escolhas" para navegação do usuario
