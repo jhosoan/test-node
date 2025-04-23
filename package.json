@@ -1,0 +1,20 @@
+{
+  "name": "gereciamento",
+  "version": "1.0.0",
+  "description": "chamando node",
+  "homepage": "https://github.com/jhosoan/test-node#readme",
+  "bugs": {
+    "url": "https://github.com/jhosoan/test-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosoan/test-node.git"
+  },
+  "license": "MIT",
+  "author": "jhosoan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
