@@ -9,7 +9,18 @@ const createWindow = () => {
 
   win.loadFile('./views/index.html')
 }
-
+// janela reconhecido
+const reco = () => {
+  const about = new BrowserWindow({
+    width:1200,
+    height:150,
+    autoHideMenuBar:true,
+    resizable:false,
+    
+  })
+  about.loadFile('./views/reconhecido.html')
+}
 app.whenReady().then(() => {
   createWindow()
+  reco()
 })
